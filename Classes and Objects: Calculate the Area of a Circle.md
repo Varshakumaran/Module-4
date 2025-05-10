@@ -30,3 +30,4 @@ obj.mech(r)
 ![image](https://github.com/user-attachments/assets/d2434443-10ae-4a6f-bdcf-dddc7a87c907)
 
 ## Result
+The code has been executed successfully.
